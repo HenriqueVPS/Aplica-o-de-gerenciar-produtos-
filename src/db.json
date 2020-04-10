@@ -1,0 +1,30 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão Liquido",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Sabão em Pó",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Bolacha",
+      "categoria": 2
+    },
+    {
+      "id": 3,
+      "produto": "Calça",
+      "categoria": 3
+    }
+  ],
+  "categorias": [
+    {
+      "categoria": "dad",
+      "id": 1
+    }
+  ]
+}
