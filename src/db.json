@@ -23,8 +23,12 @@
   ],
   "categorias": [
     {
-      "categoria": "dad",
+      "categoria": "Alimentos",
       "id": 1
+    },
+    {
+      "categoria": "Limpeza",
+      "id": 2
     }
   ]
 }
